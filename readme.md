@@ -13,7 +13,7 @@ Ce programme est un outil **Anti-AFK** qui simule automatiquement l'appui sur la
 - Interface graphique "style hacker" via Tkinter.
 
 ### Instructions d'utilisation
-1. Ouvrez le dossier `dist` et lancez `anti_afk_space_only.exe`.
+1. Ouvrez le dossier `anti-afk` et lancez `anti-afk.exe`.
 2. L'interface graphique s'affichera.
 3. Ajustez l'intervalle si nécessaire et activez le programme via le bouton "Activer" ou la touche **H**.
 4. Pour désactiver, utilisez le bouton "Désactiver" ou la touche **H**.
@@ -37,7 +37,7 @@ This program is an **Anti-AFK** tool that automatically simulates pressing the *
 - "Hacker-style" GUI built with Tkinter.
 
 ### Usage Instructions
-1. Open the `dist` folder and run `anti_afk_space_only.exe`.
+1. Open the `anti-afk` folder and run `anti-afk`.
 2. The GUI will appear.
 3. Adjust the interval if needed and activate the program via the "Activate" button or the **H** key.
 4. To deactivate, use the "Deactivate" button or the **H** key.
