@@ -49,5 +49,5 @@ This program is an **Anti-AFK** tool that automatically simulates pressing the *
 ---
 
 ### Copyright
-© Le_barman
+© kinito.exe
 
